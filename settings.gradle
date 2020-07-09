@@ -1,0 +1,3 @@
+rootProject.name='GreedyGames Assignment'
+include ':app'
+include ':imageloader'
